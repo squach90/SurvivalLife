@@ -21,7 +21,7 @@ How to Install
 ![LC_0Kj](https://github.com/squach90/SurvivalLife/assets/160175686/16ff4075-0469-4e5e-b4c3-1e7aa5446c14)
 
 
-###The keys
+##The keys
 
 
 To play it's very simple : 
